@@ -1,0 +1,95 @@
+jugre@LAPTOP-UC9B8FFU MINGW64 ~/desktop/SI_2024_lab1_203250 (bug2)
+$ git log
+commit f526077a1657562ab5795c21ac58353d3a7961fe (HEAD -> bug2, origin/master, origin/bug2, master)
+Author: JelenaUgrenovic <130100521+JelenaUgrenovic@users.noreply.github.com>
+Date:   Sat Apr 13 13:15:17 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+    Call method makeBigStringFrom in main class
+
+commit 48fbd5b846e16d37eca9abc3236e2be36a6d615f
+Author: JelenaUgrenovic <130100521+JelenaUgrenovic@users.noreply.github.com>
+Date:   Sat Apr 13 13:09:50 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit cb2cc3564775ea2ebe39070b945226f36dacf525 (origin/bug1, bug1)
+Author: JelenaUgrenovic <130100521+JelenaUgrenovic@users.noreply.github.com>
+Date:   Sat Apr 13 13:12:28 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 704e2b6c5d417f1d008e0a2e1a910cc597ddb26c
+Author: JelenaUgrenovic <130100521+JelenaUgrenovic@users.noreply.github.com>
+Date:   Sat Apr 13 13:00:39 2024 +0200
+
+    Add starter code
+
+commit 8f408a162fcef549a51887bcf82ab1ef6ba04bb5
+Author: JelenaUgrenovic <130100521+JelenaUgrenovic@users.noreply.github.com>
+Date:   Sat Apr 13 12:55:30 2024 +0200
+
+    Initial commit
+
+jugre@LAPTOP-UC9B8FFU MINGW64 ~/desktop/SI_2024_lab1_203250 (bug2)
+$ git checkout bug1
+Switched to branch 'bug1'
+
+jugre@LAPTOP-UC9B8FFU MINGW64 ~/desktop/SI_2024_lab1_203250 (bug1)
+$ git log
+commit cb2cc3564775ea2ebe39070b945226f36dacf525 (HEAD -> bug1, origin/bug1)
+Author: JelenaUgrenovic <130100521+JelenaUgrenovic@users.noreply.github.com>
+Date:   Sat Apr 13 13:12:28 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 704e2b6c5d417f1d008e0a2e1a910cc597ddb26c
+Author: JelenaUgrenovic <130100521+JelenaUgrenovic@users.noreply.github.com>
+Date:   Sat Apr 13 13:00:39 2024 +0200
+
+    Add starter code
+
+commit 8f408a162fcef549a51887bcf82ab1ef6ba04bb5
+Author: JelenaUgrenovic <130100521+JelenaUgrenovic@users.noreply.github.com>
+Date:   Sat Apr 13 12:55:30 2024 +0200
+
+    Initial commit
+
+jugre@LAPTOP-UC9B8FFU MINGW64 ~/desktop/SI_2024_lab1_203250 (bug1)
+$ git checkout master
+Switched to branch 'master'
+
+jugre@LAPTOP-UC9B8FFU MINGW64 ~/desktop/SI_2024_lab1_203250 (master)
+$ git log
+commit f526077a1657562ab5795c21ac58353d3a7961fe (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: JelenaUgrenovic <130100521+JelenaUgrenovic@users.noreply.github.com>
+Date:   Sat Apr 13 13:15:17 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+    Call method makeBigStringFrom in main class
+
+commit 48fbd5b846e16d37eca9abc3236e2be36a6d615f
+Author: JelenaUgrenovic <130100521+JelenaUgrenovic@users.noreply.github.com>
+Date:   Sat Apr 13 13:09:50 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit cb2cc3564775ea2ebe39070b945226f36dacf525 (origin/bug1, bug1)
+Author: JelenaUgrenovic <130100521+JelenaUgrenovic@users.noreply.github.com>
+Date:   Sat Apr 13 13:12:28 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 704e2b6c5d417f1d008e0a2e1a910cc597ddb26c
+Author: JelenaUgrenovic <130100521+JelenaUgrenovic@users.noreply.github.com>
+Date:   Sat Apr 13 13:00:39 2024 +0200
+
+    Add starter code
+
+commit 8f408a162fcef549a51887bcf82ab1ef6ba04bb5
+Author: JelenaUgrenovic <130100521+JelenaUgrenovic@users.noreply.github.com>
+Date:   Sat Apr 13 12:55:30 2024 +0200
+
+    Initial commit
